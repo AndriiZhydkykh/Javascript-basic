@@ -1,0 +1,9 @@
+// _proto_ 
+//Object.getPrototypeOf
+function Cat (name,color){
+    this.name=name
+    this.color=color
+}
+Cat.prototype.voice=function(){
+    console.log(`KOT `)
+}

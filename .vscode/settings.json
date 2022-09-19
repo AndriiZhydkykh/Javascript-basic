@@ -1,0 +1,5 @@
+{
+    "editor.parameterHints.cycle": false,
+    "javascript.inlayHints.parameterTypes.enabled": false,
+    "javascript.inlayHints.parameterNames.enabled": "literals"
+}
